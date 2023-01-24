@@ -4,14 +4,14 @@ project:
 website:
   title: "Quarto_profile_MaC"
   navbar:
-    background: dark
+    logo-href: images/logo.jpg
+    background-image: images/image.jpg
     search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-    logo-href: images/logo.jpg
-
+    
 format:
   html:
     theme: cosmo
