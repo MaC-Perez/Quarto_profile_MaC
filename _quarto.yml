@@ -11,12 +11,7 @@ website:
     right: 
       - href: index.qmd
         text: home 
-  background: lightseagreen
-    search: true
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+background: lightseagreen
     
 format:
   html:
