@@ -2,10 +2,16 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "PhD student María Cristina Pérez"
+  title: cristina
+  favicon: images/smast.png
   navbar:
-    logo-href: https://www.google.com/search?q=smast+umassd&rlz=1C1GCEU_esCL822CL822&sxsrf=AJOqlzU2vprtT7QrPzYdisiXlPHKrZFrgg:1674584072437&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiprKLm5-D8AhV0F1kFHcjnBg4Q_AUoAnoECAEQBA&biw=1600&bih=722&dpr=1.2#imgrc=7wgQcx8yX9i-kM
-    background: lightseagreen
+    title: false
+    logo: images/logo.png
+    logo-alt: "Alt text for logo"
+    right: 
+      - href: index.qmd
+        text: home 
+  background: lightseagreen
     search: true
     left:
       - href: index.qmd
