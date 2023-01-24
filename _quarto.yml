@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: " "
+  title: "María Cristina"
   navbar:
     background: lightseagreen
     search: true
