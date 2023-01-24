@@ -4,6 +4,8 @@ project:
 website:
   title: "Quarto_profile_MaC"
   navbar:
+    background: dark
+    search: true
     left:
       - href: index.qmd
         text: Home
