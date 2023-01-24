@@ -2,8 +2,9 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "María Cristina"
+  title: "Quarto_profile_MaC"
   navbar:
+    logo-href: images/logo.jpg
     background: lightseagreen
     search: true
     left:
