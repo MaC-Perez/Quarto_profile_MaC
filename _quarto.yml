@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-    logo: images/logo.jpg
+    logo-href: images/logo.jpg
 
 format:
   html:
