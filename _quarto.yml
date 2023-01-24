@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Quarto_profile_MaC"
+  title: "María Cristina she/her"
   navbar:
     logo-href: images/logo.jpg
     background: lightseagreen
