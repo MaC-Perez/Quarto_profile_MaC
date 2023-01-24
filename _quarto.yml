@@ -2,16 +2,14 @@ project:
   type: website
   output-dir: docs
 website:
-  title: cristina
-  favicon: images/smast.png
+  title: " "
   navbar:
-    title: false
-    logo: images/logo.png
-    logo-alt: "Alt text for logo"
-    right: 
+    background: lightseagreen
+    search: true
+    left:
       - href: index.qmd
-        text: home 
-background: lightseagreen
+        text: Home
+      - about.qmd
     
 format:
   html:
