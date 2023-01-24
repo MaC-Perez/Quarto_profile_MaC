@@ -5,7 +5,7 @@ website:
   title: "Quarto_profile_MaC"
   navbar:
     logo-href: images/logo.jpg
-    background-image: images/image.jpg
+    background: darkturquoise
     search: true
     left:
       - href: index.qmd
