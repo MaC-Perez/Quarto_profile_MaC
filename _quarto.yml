@@ -4,8 +4,8 @@ project:
 website:
   title: "María Cristina she/her"
   navbar:
-    logo-href: images/logo.jpg
     background: lightseagreen
+    logo-href: images/logo.jpg
     search: true
     left:
       - href: index.qmd
@@ -14,7 +14,7 @@ website:
     
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 

@@ -15,10 +15,6 @@ about:
       icon: "envelope"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
 ## Education
 
 Marine Biologist, Universidad de Concepción, Chile.
@@ -35,3 +31,7 @@ I joined the Fay Lab in the fall of 2021. I am a Marine Biologist with a Master 
 ## Projects
 
 ## Publications
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
